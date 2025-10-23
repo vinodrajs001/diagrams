@@ -134,7 +134,7 @@
           <mxGeometry x="840" y="440" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I4khBCiITDCPc536_W4j-2" value="Generic group" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="240" width="130" height="130" as="geometry" />
+          <mxGeometry x="300" y="240" width="730" height="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

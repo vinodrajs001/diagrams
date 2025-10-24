@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qfIOwMy4VhTzvlVOUwPy-4" value="Task" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="465.5" y="475" width="60" height="30" as="geometry" />
+          <mxGeometry x="465.5" y="478" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I4khBCiITDCPc536_W4j-1" value="GitHub MCP Server" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="465" width="50" height="50" as="geometry" />

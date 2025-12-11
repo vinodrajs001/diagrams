@@ -270,10 +270,10 @@
         <mxCell id="wUBFaJinqIEVXz_xmiWT-5" edge="1" parent="1" source="wUBFaJinqIEVXz_xmiWT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" target="wUBFaJinqIEVXz_xmiWT-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wUBFaJinqIEVXz_xmiWT-3" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" value="Build" vertex="1">
+        <mxCell id="wUBFaJinqIEVXz_xmiWT-3" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;imageBackground=none;" value="Build" vertex="1">
           <mxGeometry height="38" width="38" x="-155" y="-406" as="geometry" />
         </mxCell>
-        <mxCell id="wUBFaJinqIEVXz_xmiWT-4" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" value="Release" vertex="1">
+        <mxCell id="wUBFaJinqIEVXz_xmiWT-4" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;imageBackground=none;" value="Release" vertex="1">
           <mxGeometry height="38" width="38" x="20" y="-406" as="geometry" />
         </mxCell>
         <mxCell id="wUBFaJinqIEVXz_xmiWT-6" edge="1" parent="1" source="yi43IX-8EKN7zabt2b81-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;flowAnimation=1;" target="wUBFaJinqIEVXz_xmiWT-1">

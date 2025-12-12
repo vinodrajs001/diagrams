@@ -177,7 +177,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fyCpoL8Un92hvH2eUcp7" name="Blog2">
-    <mxGraphModel dx="2226" dy="1720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#D7ECD6" math="0" shadow="0">
+    <mxGraphModel dx="2478" dy="1882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#D7ECD6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,10 +267,15 @@
         <mxCell id="FKdaAg8dSQfnn66jtuit-4" edge="1" parent="1" source="FKdaAg8dSQfnn66jtuit-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" target="yi43IX-8EKN7zabt2b81-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RMof_7jl5yuwRMowYyPs-5" connectable="0" parent="FKdaAg8dSQfnn66jtuit-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#D7ECD6;" value="commit" vertex="1">
+          <mxGeometry relative="1" x="-0.1485" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FKdaAg8dSQfnn66jtuit-3" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#D7ECD6;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;" value="Developer" vertex="1">
           <mxGeometry height="60" width="60" x="-613" y="-415" as="geometry" />
         </mxCell>
-        <mxCell id="wUBFaJinqIEVXz_xmiWT-5" edge="1" parent="1" source="wUBFaJinqIEVXz_xmiWT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" target="wUBFaJinqIEVXz_xmiWT-4">
+        <mxCell id="wUBFaJinqIEVXz_xmiWT-5" edge="1" parent="1" source="wUBFaJinqIEVXz_xmiWT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;flowAnimation=1;" target="wUBFaJinqIEVXz_xmiWT-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wUBFaJinqIEVXz_xmiWT-2" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_DevOps.svg;imageBackground=none;textShadow=0;labelBackgroundColor=#EFF0F3;" value="&lt;span style=&quot;&quot;&gt;Azure&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;DevOps&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -284,6 +289,11 @@
         </mxCell>
         <mxCell id="wUBFaJinqIEVXz_xmiWT-6" edge="1" parent="1" source="yi43IX-8EKN7zabt2b81-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;flowAnimation=1;" target="wUBFaJinqIEVXz_xmiWT-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RMof_7jl5yuwRMowYyPs-6" connectable="0" parent="wUBFaJinqIEVXz_xmiWT-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#D7ECD6;" value="trigger" vertex="1">
+          <mxGeometry relative="1" x="-0.1859" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

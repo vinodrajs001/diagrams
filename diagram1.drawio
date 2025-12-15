@@ -322,7 +322,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yi43IX-8EKN7zabt2b81-20" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" value="users" vertex="1">
-          <mxGeometry height="60" width="60" x="-552" y="114" as="geometry" />
+          <mxGeometry height="60" width="60" x="-583" y="114" as="geometry" />
         </mxCell>
         <mxCell id="yi43IX-8EKN7zabt2b81-27" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" value="GitHub" vertex="1">
           <mxGeometry height="57" width="57" x="-381" y="-412.5" as="geometry" />
@@ -336,7 +336,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FKdaAg8dSQfnn66jtuit-3" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#D7ECD6;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;" value="Developer" vertex="1">
-          <mxGeometry height="60" width="60" x="-555" y="-415" as="geometry" />
+          <mxGeometry height="60" width="60" x="-584" y="-415" as="geometry" />
         </mxCell>
         <mxCell id="wUBFaJinqIEVXz_xmiWT-5" edge="1" parent="1" source="wUBFaJinqIEVXz_xmiWT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;flowAnimation=1;" target="wUBFaJinqIEVXz_xmiWT-4">
           <mxGeometry relative="1" as="geometry" />

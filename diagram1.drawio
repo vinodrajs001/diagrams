@@ -359,10 +359,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2YZuyp1ybv7CJn95R627-3" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" value="On-Premise" vertex="1">
-          <mxGeometry height="179" width="170" x="747" y="-220" as="geometry" />
+          <mxGeometry height="179" width="170" x="783" y="-220" as="geometry" />
         </mxCell>
         <mxCell id="2YZuyp1ybv7CJn95R627-5" parent="1" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_server;" value="Database Server" vertex="1">
-          <mxGeometry height="57" width="43" x="804" y="-132" as="geometry" />
+          <mxGeometry height="57" width="43" x="853" y="-132" as="geometry" />
         </mxCell>
         <mxCell id="2YZuyp1ybv7CJn95R627-7" edge="1" parent="1" source="RMof_7jl5yuwRMowYyPs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;flowAnimation=1;fillColor=#ffe6cc;strokeColor=#d79b00;" target="2YZuyp1ybv7CJn95R627-3">
           <mxGeometry relative="1" as="geometry">

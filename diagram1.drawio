@@ -306,6 +306,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="TlvOGDz11USlVx7NVjbE-5" edge="1" parent="1" source="yi43IX-8EKN7zabt2b81-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;fillColor=#ffe6cc;strokeColor=#d79b00;flowAnimation=1;strokeWidth=2;" target="TlvOGDz11USlVx7NVjbE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yi43IX-8EKN7zabt2b81-10" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudfront;" value="CloudFront&lt;div&gt;CDN&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="-357" y="125" as="geometry" />
         </mxCell>
@@ -386,6 +389,9 @@
         </mxCell>
         <mxCell id="TlvOGDz11USlVx7NVjbE-1" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" value="AWS Cloud" vertex="1">
           <mxGeometry height="612" width="1211" x="-474" y="-218" as="geometry" />
+        </mxCell>
+        <mxCell id="TlvOGDz11USlVx7NVjbE-4" parent="TlvOGDz11USlVx7NVjbE-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.waf;" value="WAF" vertex="1">
+          <mxGeometry height="40" width="40" x="53" y="140" as="geometry" />
         </mxCell>
         <mxCell id="TlvOGDz11USlVx7NVjbE-3" edge="1" parent="1" source="yi43IX-8EKN7zabt2b81-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;flowAnimation=1;" target="TlvOGDz11USlVx7NVjbE-2" value="">
           <mxGeometry relative="1" as="geometry">

@@ -154,7 +154,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="230" width="310" x="811" y="470" as="geometry" />
+          <mxGeometry height="230" width="310" x="842" y="505" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="530" width="390" x="351" y="210" as="geometry" />
@@ -202,28 +202,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Short Term Memory (VRAM)" vertex="1">
-          <mxGeometry height="36" width="200" x="862" y="505" as="geometry" />
+          <mxGeometry height="36" width="200" x="893" y="538" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Long Term Memory&lt;div&gt;Vector Store&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="200" x="862" y="633" as="geometry" />
+          <mxGeometry height="36" width="200" x="893" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="QkmaDwdfaY3hbe1SD3L3-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#a20025;strokeColor=#6F0000;startArrow=classic;startFill=1;" target="QkmaDwdfaY3hbe1SD3L3-16" value="">
+        <mxCell id="QkmaDwdfaY3hbe1SD3L3-18" edge="1" parent="1" source="QkmaDwdfaY3hbe1SD3L3-7" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#a20025;strokeColor=#6F0000;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="QkmaDwdfaY3hbe1SD3L3-16" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="668" y="523" as="sourcePoint" />
-            <mxPoint x="718" y="473" as="targetPoint" />
+            <mxPoint x="699" y="558" as="sourcePoint" />
+            <mxPoint x="749" y="508" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkmaDwdfaY3hbe1SD3L3-19" edge="1" parent="1" source="QkmaDwdfaY3hbe1SD3L3-7" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#a20025;strokeColor=#6F0000;startArrow=classic;startFill=1;exitX=1;exitY=0.841;exitDx=0;exitDy=0;exitPerimeter=0;" target="QkmaDwdfaY3hbe1SD3L3-17" value="">
+        <mxCell id="QkmaDwdfaY3hbe1SD3L3-19" edge="1" parent="1" source="QkmaDwdfaY3hbe1SD3L3-7" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#a20025;strokeColor=#6F0000;startArrow=classic;startFill=1;exitX=0.981;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;" target="QkmaDwdfaY3hbe1SD3L3-17" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="668" y="649" as="sourcePoint" />
-            <mxPoint x="862" y="701" as="targetPoint" />
+            <mxPoint x="699.0000000000005" y="688.8900000000003" as="sourcePoint" />
+            <mxPoint x="893" y="736" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-23" edge="1" parent="1" source="QkmaDwdfaY3hbe1SD3L3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#a20025;strokeColor=#6F0000;" target="QkmaDwdfaY3hbe1SD3L3-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="Memory Extraction Module" vertex="1">
-          <mxGeometry height="30" width="240" x="841" y="572" as="geometry" />
+          <mxGeometry height="30" width="240" x="872" y="607" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Storage" vertex="1">
           <mxGeometry height="30" width="60" x="931" y="430" as="geometry" />

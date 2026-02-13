@@ -149,7 +149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7D3fY_RO6gmVtsHo5BfV" name="Page-3">
-    <mxGraphModel dx="2473" dy="1406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
           <mxGeometry height="30" width="60" x="600" y="170" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" value="LLM" vertex="1">
-          <mxGeometry height="60" width="235" x="507.5" y="250" as="geometry" />
+          <mxGeometry height="90" width="235" x="507.5" y="250" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-9" edge="1" parent="1" source="QkmaDwdfaY3hbe1SD3L3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" target="QkmaDwdfaY3hbe1SD3L3-7">
           <mxGeometry relative="1" as="geometry" />
@@ -184,7 +184,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" value="Code" vertex="1">
-          <mxGeometry height="324" width="243" x="504" y="376" as="geometry" />
+          <mxGeometry height="290" width="243" x="504" y="410" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" value="Tool&lt;div&gt;Hotep Price&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="940" y="181" as="geometry" />
@@ -202,7 +202,7 @@
           <mxGeometry height="36" width="200" x="941" y="505" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Long Term Memory&lt;div&gt;Vector Store&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="200" x="941" y="628" as="geometry" />
+          <mxGeometry height="36" width="200" x="941" y="633" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#a20025;strokeColor=#6F0000;startArrow=classic;startFill=1;" target="QkmaDwdfaY3hbe1SD3L3-16" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -220,7 +220,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="Memory Extraction Module" vertex="1">
-          <mxGeometry height="30" width="240" x="920" y="570" as="geometry" />
+          <mxGeometry height="30" width="240" x="920" y="572" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

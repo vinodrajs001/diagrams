@@ -294,6 +294,12 @@
         <mxCell id="oNgZN183qXG9pbvVI1Ly-21" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" value="" vertex="1">
           <mxGeometry height="20" width="22.22" x="939.78" y="308" as="geometry" />
         </mxCell>
+        <mxCell id="oNgZN183qXG9pbvVI1Ly-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hook" vertex="1">
+          <mxGeometry height="30" width="60" x="759" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="oNgZN183qXG9pbvVI1Ly-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hook" vertex="1">
+          <mxGeometry height="30" width="60" x="759" y="660" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

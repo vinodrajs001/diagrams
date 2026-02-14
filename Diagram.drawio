@@ -149,7 +149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7D3fY_RO6gmVtsHo5BfV" name="Page-3">
-    <mxGraphModel dx="1426" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
           <mxGeometry height="230" width="259" x="860" y="505" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="530" width="390" x="351" y="210" as="geometry" />
+          <mxGeometry height="530" width="361" x="380" y="210" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Agent" vertex="1">
           <mxGeometry height="30" width="60" x="521" y="170" as="geometry" />
@@ -294,11 +294,14 @@
         <mxCell id="oNgZN183qXG9pbvVI1Ly-21" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" value="" vertex="1">
           <mxGeometry height="20" width="22.22" x="939.78" y="308" as="geometry" />
         </mxCell>
-        <mxCell id="oNgZN183qXG9pbvVI1Ly-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hook" vertex="1">
+        <mxCell id="oNgZN183qXG9pbvVI1Ly-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Hook" vertex="1">
           <mxGeometry height="30" width="60" x="759" y="525" as="geometry" />
         </mxCell>
-        <mxCell id="oNgZN183qXG9pbvVI1Ly-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hook" vertex="1">
+        <mxCell id="oNgZN183qXG9pbvVI1Ly-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Hook" vertex="1">
           <mxGeometry height="30" width="60" x="759" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="oNgZN183qXG9pbvVI1Ly-26" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="Storage Can be used as tool" vertex="1">
+          <mxGeometry height="45" width="210" x="1150" y="465" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

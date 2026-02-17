@@ -153,7 +153,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pKtWMv09JXqaCyJFMFAK-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="pKtWMv09JXqaCyJFMFAK-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="121" width="320" x="20" y="109" as="geometry" />
         </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#e10e0e, #ededed);strokeWidth=2;" value="" vertex="1">
@@ -448,6 +448,9 @@
         </mxCell>
         <mxCell id="pKtWMv09JXqaCyJFMFAK-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Identity Provider (OAuth)" vertex="1">
           <mxGeometry height="30" width="220" x="20" y="79" as="geometry" />
+        </mxCell>
+        <mxCell id="pKtWMv09JXqaCyJFMFAK-36" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_AD_Domain_Services.svg;fontStyle=1;imageBackground=#FFE6CC;imageBorder=none;labelBackgroundColor=#FFE6CC;" value="Azure AD" vertex="1">
+          <mxGeometry height="50" width="50" x="170" y="139" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -427,7 +427,7 @@
         </mxCell>
         <mxCell id="pKtWMv09JXqaCyJFMFAK-31" connectable="0" parent="pKtWMv09JXqaCyJFMFAK-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Metrics &amp;amp; Logs" vertex="1">
           <mxGeometry relative="1" x="0.3986" y="-1" as="geometry">
-            <mxPoint x="23" y="16" as="offset" />
+            <mxPoint x="8" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKtWMv09JXqaCyJFMFAK-29" edge="1" parent="1" source="pKtWMv09JXqaCyJFMFAK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" target="pKtWMv09JXqaCyJFMFAK-26">
@@ -435,7 +435,7 @@
         </mxCell>
         <mxCell id="pKtWMv09JXqaCyJFMFAK-30" connectable="0" parent="pKtWMv09JXqaCyJFMFAK-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Traces" vertex="1">
           <mxGeometry relative="1" x="0.4894" y="2" as="geometry">
-            <mxPoint y="-11" as="offset" />
+            <mxPoint x="-24" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

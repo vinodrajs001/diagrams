@@ -452,7 +452,7 @@
           <mxGeometry height="30" width="220" x="20" y="79" as="geometry" />
         </mxCell>
         <mxCell id="pKtWMv09JXqaCyJFMFAK-36" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_AD_Domain_Services.svg;fontStyle=1;imageBackground=#FFE6CC;imageBorder=none;labelBackgroundColor=#FFE6CC;" value="Azure AD" vertex="1">
-          <mxGeometry height="50" width="50" x="170" y="139" as="geometry" />
+          <mxGeometry height="50" width="50" x="153" y="139" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

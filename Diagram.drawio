@@ -149,13 +149,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7D3fY_RO6gmVtsHo5BfV" name="AgentCore">
-    <mxGraphModel dx="1766" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1435" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ax09HiCHko0Vgf1JZ2-S-13" parent="1" style="fillColor=none;strokeColor=#000000;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="395" width="1090" x="330" y="330" as="geometry" />
-        </mxCell>
         <mxCell id="QkmaDwdfaY3hbe1SD3L3-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#e10e0e, #ededed);strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="310" width="380" x="860" y="370" as="geometry" />
         </mxCell>
@@ -484,6 +481,9 @@
         </mxCell>
         <mxCell id="fE0-149mtwR6mlTALngD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;dashed=1;dashPattern=8 8;" value="Agent Framework" vertex="1">
           <mxGeometry height="117.5" width="250" x="430" y="392.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ax09HiCHko0Vgf1JZ2-S-13" parent="1" style="fillColor=none;strokeColor=#000000;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="395" width="1090" x="330" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

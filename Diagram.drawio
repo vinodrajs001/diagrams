@@ -517,10 +517,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D8mQ8xT3HcB7uzOglAh2-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="agent_id" vertex="1">
-          <mxGeometry height="30" width="60" x="914" y="494" as="geometry" />
+          <mxGeometry height="30" width="60" x="909" y="497" as="geometry" />
         </mxCell>
         <mxCell id="D8mQ8xT3HcB7uzOglAh2-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="user context" vertex="1">
           <mxGeometry height="30" width="154" x="865" y="537" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mQ8xT3HcB7uzOglAh2-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="agent_id" vertex="1">
+          <mxGeometry height="30" width="60" x="913" y="404" as="geometry" />
+        </mxCell>
+        <mxCell id="D8mQ8xT3HcB7uzOglAh2-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="session_id" vertex="1">
+          <mxGeometry height="30" width="60" x="914" y="483" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

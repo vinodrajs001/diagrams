@@ -149,7 +149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7D3fY_RO6gmVtsHo5BfV" name="AgentCore">
-    <mxGraphModel dx="1613" dy="1275" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#CCFFE6" math="0" shadow="0">
+    <mxGraphModel dx="2115" dy="1558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#CCFFE6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

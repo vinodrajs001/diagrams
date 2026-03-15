@@ -553,7 +553,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SeP9z0vmYz-EyuRjwky7" name="MCP">
-    <mxGraphModel dx="2596" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2596" dy="875" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -698,6 +698,12 @@
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="APIs" vertex="1">
           <mxGeometry height="30" width="60" x="892" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-58" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="d7Yj4sJzW1kcbsqtS-jT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;fontStyle=1" value="LLM" vertex="1">
+          <mxGeometry height="60" width="120" x="18" y="106" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

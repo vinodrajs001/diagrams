@@ -572,14 +572,13 @@
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="90" x="540" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Database" vertex="1">
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" value="Database" vertex="1">
           <mxGeometry height="85" width="80" x="920" y="62" as="geometry" />
         </mxCell>
-        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Private API" vertex="1">
-          <mxGeometry height="70" width="130" x="894" y="228" as="geometry" />
-        </mxCell>
-        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-16" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;" target="d7Yj4sJzW1kcbsqtS-jT-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-16" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="d7Yj4sJzW1kcbsqtS-jT-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="894" y="263" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-21" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" target="d7Yj4sJzW1kcbsqtS-jT-2">
           <mxGeometry relative="1" as="geometry" />
@@ -634,8 +633,11 @@
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="MCP Client" vertex="1">
           <mxGeometry height="40" width="110" x="180" y="298" as="geometry" />
         </mxCell>
-        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-32" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google_drive" value="Google Drive" vertex="1">
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-32" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google_drive;fontSize=14;" value="Google Drive" vertex="1">
           <mxGeometry height="80" width="90" x="920" y="396" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-33" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;fontSize=14;" value="GitHub" vertex="1">
+          <mxGeometry height="87" width="90" x="915" y="218.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.4.0" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1" pages="4">
   <diagram name="Page-1" id="hWEfVttNVgDZ4Jj8ym4o">
     <mxGraphModel dx="1639" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -149,14 +149,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7D3fY_RO6gmVtsHo5BfV" name="AgentCore">
-    <mxGraphModel dx="1572" dy="1384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#D7ECD6" math="0" shadow="0">
+    <mxGraphModel dx="1427" dy="1275" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#D7ECD6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QkmaDwdfaY3hbe1SD3L3-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;verticalAlign=top;fillColor=none;align=center;labelBackgroundColor=#D7ECD6;" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;Amazon&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;AgentCore&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;Memory&lt;/span&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="QkmaDwdfaY3hbe1SD3L3-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;verticalAlign=top;fillColor=none;align=center;labelBackgroundColor=#D7ECD6;dashed=1;" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;Amazon&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;AgentCore&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;Memory&lt;/span&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="320" width="485" x="1007" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="Ax09HiCHko0Vgf1JZ2-S-13" parent="1" style="fillColor=none;strokeColor=#000000;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="Ax09HiCHko0Vgf1JZ2-S-13" parent="1" style="fillColor=none;strokeColor=#000000;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;strokeWidth=1;dashed=1;" value="" vertex="1">
           <mxGeometry height="320" width="485" x="365" y="330" as="geometry" />
         </mxCell>
         <mxCell id="D8mQ8xT3HcB7uzOglAh2-33" edge="1" parent="1" source="QkmaDwdfaY3hbe1SD3L3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;flowAnimation=1;" target="pKtWMv09JXqaCyJFMFAK-9">

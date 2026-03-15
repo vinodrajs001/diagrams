@@ -558,7 +558,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" value="Agent" vertex="1">
-          <mxGeometry height="210" width="266" x="-80" y="254" as="geometry" />
+          <mxGeometry height="206" width="216" x="-30" y="254" as="geometry" />
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-44" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;" target="d7Yj4sJzW1kcbsqtS-jT-41">
           <mxGeometry relative="1" as="geometry" />
@@ -691,7 +691,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-52" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" value="" vertex="1">
-          <mxGeometry height="83" width="80" x="-370" y="317.5" as="geometry" />
+          <mxGeometry height="83" width="80" x="-265" y="315.5" as="geometry" />
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="MCP Tools" vertex="1">
           <mxGeometry height="30" width="99" x="651" y="30" as="geometry" />

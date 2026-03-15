@@ -557,8 +557,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" value="MCP Host" vertex="1">
-          <mxGeometry height="210" width="370" x="-184" y="254" as="geometry" />
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" value="Agent" vertex="1">
+          <mxGeometry height="210" width="266" x="-80" y="254" as="geometry" />
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-44" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;" target="d7Yj4sJzW1kcbsqtS-jT-41">
           <mxGeometry relative="1" as="geometry" />
@@ -686,6 +686,18 @@
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" value="Tool : &lt;font color=&quot;#f0f6fc&quot; face=&quot;Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.6px; white-space-collapse: break-spaces; background-color: rgba(101, 108, 118, 0.2);&quot;&gt;del_item&lt;/span&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry height="31" width="100" x="651" y="219.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-53" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="d7Yj4sJzW1kcbsqtS-jT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-52" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" value="" vertex="1">
+          <mxGeometry height="83" width="80" x="-370" y="317.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="MCP Tools" vertex="1">
+          <mxGeometry height="30" width="99" x="651" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="APIs" vertex="1">
+          <mxGeometry height="30" width="60" x="892" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

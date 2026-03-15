@@ -654,6 +654,9 @@
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-33" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;fontSize=14;" value="GitHub" vertex="1">
           <mxGeometry height="87" width="90" x="915" y="218.5" as="geometry" />
         </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-37" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.command_line;" value="cli" vertex="1">
+          <mxGeometry height="42" width="40" x="70" y="242" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

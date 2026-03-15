@@ -605,6 +605,38 @@
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-15" parent="d7Yj4sJzW1kcbsqtS-jT-23" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="90" x="30" y="70" as="geometry" />
         </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-25" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;" target="d7Yj4sJzW1kcbsqtS-jT-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="894" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-26" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;" target="d7Yj4sJzW1kcbsqtS-jT-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="318" />
+              <mxPoint x="400" y="435" />
+            </Array>
+            <mxPoint x="290" y="435" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-27" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="150" x="510" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-28" parent="d7Yj4sJzW1kcbsqtS-jT-27" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" value="MCP Server" vertex="1">
+          <mxGeometry height="130" width="150" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-29" parent="d7Yj4sJzW1kcbsqtS-jT-27" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="90" x="30" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-30" parent="d7Yj4sJzW1kcbsqtS-jT-27" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="90" x="30" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="MCP Client" vertex="1">
+          <mxGeometry height="40" width="110" x="180" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-32" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google_drive" value="Google Drive" vertex="1">
+          <mxGeometry height="80" width="90" x="920" y="396" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

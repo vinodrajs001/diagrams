@@ -667,17 +667,17 @@
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-47" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" target="d7Yj4sJzW1kcbsqtS-jT-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" value="API :&amp;nbsp;&lt;div&gt;&lt;font color=&quot;#f0f6fc&quot; face=&quot;Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.6px; white-space-collapse: break-spaces; background-color: rgba(101, 108, 118, 0.2);&quot;&gt;add_item&lt;/span&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="31" width="100" x="831" y="138" as="geometry" />
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" value="API :&amp;nbsp;&lt;div&gt;&lt;font color=&quot;#f0f6fc&quot; face=&quot;Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.6px; white-space-collapse: break-spaces; background-color: rgba(101, 108, 118, 0.2);&quot;&gt;/prod/add_item&lt;/span&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="31" width="130" x="820" y="138" as="geometry" />
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-48" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" target="d7Yj4sJzW1kcbsqtS-jT-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" value="API :&amp;nbsp;&lt;div&gt;&lt;font color=&quot;#f0f6fc&quot; face=&quot;Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.6px; white-space-collapse: break-spaces; background-color: rgba(101, 108, 118, 0.2);&quot;&gt;delete_item&lt;/span&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="31" width="100" x="831" y="220" as="geometry" />
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" value="API :&amp;nbsp;&lt;div&gt;&lt;font color=&quot;#f0f6fc&quot; face=&quot;Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.6px; white-space-collapse: break-spaces; background-color: rgba(101, 108, 118, 0.2);&quot;&gt;/prod/delete_item&lt;/span&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="31" width="130" x="820" y="220" as="geometry" />
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-46" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Microservice" vertex="1">
-          <mxGeometry height="71" width="80" x="1046" y="148.5" as="geometry" />
+          <mxGeometry height="71" width="80" x="1046" y="160" as="geometry" />
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-50" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="d7Yj4sJzW1kcbsqtS-jT-43">
           <mxGeometry relative="1" as="geometry" />

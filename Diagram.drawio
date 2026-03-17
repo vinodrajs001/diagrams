@@ -553,7 +553,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SeP9z0vmYz-EyuRjwky7" name="MCP">
-    <mxGraphModel dx="2669" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3171" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -609,6 +609,12 @@
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-15" parent="d7Yj4sJzW1kcbsqtS-jT-23" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="90" x="30" y="70" as="geometry" />
         </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-66" parent="d7Yj4sJzW1kcbsqtS-jT-23" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" value="" vertex="1">
+          <mxGeometry height="16" width="17.78" x="34" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-67" parent="d7Yj4sJzW1kcbsqtS-jT-23" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" value="" vertex="1">
+          <mxGeometry height="16" width="17.78" x="34" y="77" as="geometry" />
+        </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-25" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;" target="d7Yj4sJzW1kcbsqtS-jT-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="894" y="535" as="targetPoint" />
@@ -639,6 +645,12 @@
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-30" parent="d7Yj4sJzW1kcbsqtS-jT-27" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="90" x="30" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-68" parent="d7Yj4sJzW1kcbsqtS-jT-27" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" value="" vertex="1">
+          <mxGeometry height="16" width="17.78" x="34" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-69" parent="d7Yj4sJzW1kcbsqtS-jT-27" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" value="" vertex="1">
+          <mxGeometry height="16" width="17.78" x="34" y="77" as="geometry" />
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="MCP Client" vertex="1">
           <mxGeometry height="40" width="110" x="56" y="397" as="geometry" />
@@ -711,6 +723,12 @@
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-62" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;curved=1;" target="d7Yj4sJzW1kcbsqtS-jT-33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-64" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" value="" vertex="1">
+          <mxGeometry height="16" width="17.78" x="420" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-65" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" value="" vertex="1">
+          <mxGeometry height="16" width="17.78" x="420" y="216" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -825,7 +825,7 @@
         <mxCell id="b0qaGTs-077ziBe5cBGa-28" edge="1" parent="1" source="b0qaGTs-077ziBe5cBGa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.026;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=2;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="b0qaGTs-077ziBe5cBGa-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b0qaGTs-077ziBe5cBGa-29" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.yahoo_2;fillColor=#65106E;strokeColor=none" value="" vertex="1">
+        <mxCell id="b0qaGTs-077ziBe5cBGa-29" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.yahoo_2;fillColor=#65106E;strokeColor=none" value="Latest News" vertex="1">
           <mxGeometry height="30" width="49" x="1017.5" y="1030" as="geometry" />
         </mxCell>
       </root>

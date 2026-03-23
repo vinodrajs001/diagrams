@@ -700,7 +700,7 @@
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-53" edge="1" parent="1" source="d7Yj4sJzW1kcbsqtS-jT-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="d7Yj4sJzW1kcbsqtS-jT-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-52" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" value="" vertex="1">
+        <mxCell id="d7Yj4sJzW1kcbsqtS-jT-52" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fontStyle=1;fontSize=14;" value="User" vertex="1">
           <mxGeometry height="83" width="80" x="-230" y="315.5" as="geometry" />
         </mxCell>
         <mxCell id="d7Yj4sJzW1kcbsqtS-jT-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="MCP Tools" vertex="1">

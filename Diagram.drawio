@@ -934,6 +934,9 @@
         <mxCell id="GLyfhriRf94M7RrsipkK-7" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="850" y="557" as="geometry" />
         </mxCell>
+        <mxCell id="GLyfhriRf94M7RrsipkK-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="Security Hub Warning Remediation" vertex="1">
+          <mxGeometry height="40" width="510" x="40" y="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

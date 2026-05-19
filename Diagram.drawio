@@ -893,7 +893,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-5iZOqQljRSb9ay5Ptxs" name="AI Use Cases">
-    <mxGraphModel dx="1627" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1201" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -954,48 +954,52 @@
           <mxGeometry height="40" width="510" x="40" y="850" as="geometry" />
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-6" edge="1" parent="1" source="c_fQM_8_UmJZVJR0GPaW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" target="c_fQM_8_UmJZVJR0GPaW-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="1026" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-3" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/ELASTO_Ecommerce_UI_Flat___Outline_icons-2922/00-ELASTOFONT-STORE-READY_invoice-573.svg" value="Invoice" vertex="1">
-          <mxGeometry height="50" width="50" x="160" y="927" as="geometry" />
+          <mxGeometry height="50" width="50" x="110" y="1003" as="geometry" />
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-8" edge="1" parent="1" source="c_fQM_8_UmJZVJR0GPaW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" target="c_fQM_8_UmJZVJR0GPaW-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Receive Invoice" vertex="1">
-          <mxGeometry height="45" width="90" x="280" y="930" as="geometry" />
+          <mxGeometry height="45" width="90" x="280" y="1003" as="geometry" />
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-10" edge="1" parent="1" source="c_fQM_8_UmJZVJR0GPaW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" target="c_fQM_8_UmJZVJR0GPaW-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Extract Data" vertex="1">
-          <mxGeometry height="45" width="90" x="439" y="929.5" as="geometry" />
+          <mxGeometry height="45" width="90" x="439" y="1002.5" as="geometry" />
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-12" edge="1" parent="1" source="c_fQM_8_UmJZVJR0GPaW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" target="c_fQM_8_UmJZVJR0GPaW-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="710" y="952" />
-              <mxPoint x="710" y="1053" />
+              <mxPoint x="710" y="1025" />
+              <mxPoint x="710" y="1126" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Verify Extracted Data" vertex="1">
-          <mxGeometry height="45" width="90" x="600" y="929.5" as="geometry" />
+          <mxGeometry height="45" width="90" x="600" y="1002.5" as="geometry" />
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-14" edge="1" parent="1" source="c_fQM_8_UmJZVJR0GPaW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" target="c_fQM_8_UmJZVJR0GPaW-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Manual Data Correction" vertex="1">
-          <mxGeometry height="45" width="90" x="600" y="1030" as="geometry" />
+          <mxGeometry height="45" width="90" x="600" y="1103" as="geometry" />
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-16" edge="1" parent="1" source="c_fQM_8_UmJZVJR0GPaW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" target="c_fQM_8_UmJZVJR0GPaW-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Approvals Workflow" vertex="1">
-          <mxGeometry height="45" width="90" x="439" y="1030" as="geometry" />
+          <mxGeometry height="45" width="90" x="439" y="1103" as="geometry" />
         </mxCell>
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Save Invoice Data" vertex="1">
-          <mxGeometry height="45" width="90" x="280" y="1030" as="geometry" />
+          <mxGeometry height="45" width="90" x="280" y="1103" as="geometry" />
         </mxCell>
         <UserObject label="https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/" link="https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/" id="c_fQM_8_UmJZVJR0GPaW-17">
           <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">

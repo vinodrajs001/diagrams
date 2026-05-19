@@ -997,6 +997,11 @@
         <mxCell id="c_fQM_8_UmJZVJR0GPaW-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Save Invoice Data" vertex="1">
           <mxGeometry height="45" width="90" x="280" y="1030" as="geometry" />
         </mxCell>
+        <UserObject label="https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/" link="https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/" id="c_fQM_8_UmJZVJR0GPaW-17">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="50" width="560" x="830" y="860" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>

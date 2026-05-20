@@ -1034,7 +1034,10 @@
           <mxGeometry height="48" width="48" x="403.5" y="250" as="geometry" />
         </mxCell>
         <mxCell id="LGcWuhOCl6Ky1cZYIEQS-16" parent="LGcWuhOCl6Ky1cZYIEQS-2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" value="AWS S3&lt;div&gt;(Training Data)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="48.08" x="233.49999999999994" y="320" as="geometry" />
+          <mxGeometry height="50" width="48.08" x="240.49999999999994" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="LGcWuhOCl6Ky1cZYIEQS-28" edge="1" parent="LGcWuhOCl6Ky1cZYIEQS-2" source="LGcWuhOCl6Ky1cZYIEQS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" target="LGcWuhOCl6Ky1cZYIEQS-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGcWuhOCl6Ky1cZYIEQS-18" parent="LGcWuhOCl6Ky1cZYIEQS-2" style="fillColor=#EFF0F3;strokeColor=default;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#232F3D;whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
           <mxGeometry height="176" width="286.5" x="43.5" y="64" as="geometry" />

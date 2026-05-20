@@ -1016,7 +1016,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="LGcWuhOCl6Ky1cZYIEQS-2" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" value="AWS Cloud" vertex="1">
-          <mxGeometry height="328" width="680" x="106.5" y="1390" as="geometry" />
+          <mxGeometry height="420" width="680" x="106.5" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="LGcWuhOCl6Ky1cZYIEQS-12" edge="1" parent="LGcWuhOCl6Ky1cZYIEQS-2" source="LGcWuhOCl6Ky1cZYIEQS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;flowAnimation=1;" target="LGcWuhOCl6Ky1cZYIEQS-6">
           <mxGeometry relative="1" as="geometry" />
@@ -1034,7 +1034,7 @@
           <mxGeometry height="48" width="48" x="403.5" y="250" as="geometry" />
         </mxCell>
         <mxCell id="LGcWuhOCl6Ky1cZYIEQS-16" parent="LGcWuhOCl6Ky1cZYIEQS-2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" value="AWS S3&lt;div&gt;(Training Data)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="48.08" x="403.49999999999994" y="14" as="geometry" />
+          <mxGeometry height="50" width="48.08" x="233.49999999999994" y="320" as="geometry" />
         </mxCell>
         <mxCell id="LGcWuhOCl6Ky1cZYIEQS-18" parent="LGcWuhOCl6Ky1cZYIEQS-2" style="fillColor=#EFF0F3;strokeColor=default;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#232F3D;whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
           <mxGeometry height="176" width="286.5" x="43.5" y="64" as="geometry" />

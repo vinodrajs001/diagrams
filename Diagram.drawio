@@ -1177,6 +1177,9 @@
         <mxCell id="-k8Wbdhul615b9qOnloH-18" edge="1" parent="1" source="-k8Wbdhul615b9qOnloH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;flowAnimation=1;" target="LGcWuhOCl6Ky1cZYIEQS-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-k8Wbdhul615b9qOnloH-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;labelBorderColor=default;" value="OCR" vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="1280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
